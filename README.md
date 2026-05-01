@@ -7,6 +7,3 @@ This project implements an end-to-end computational workflow for:
 - Predicting potential T-cell epitopes
 - Evaluating peptide properties relevant to immunogenicity
 Applications: vaccine design, immunotherapy research, and antigen characterization
----
-
-
